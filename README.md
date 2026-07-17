@@ -48,17 +48,15 @@ STM32F407xx-Bare-Metal-Drivers/
 - STM32CubeIDE
 - ARM GCC
 
-## Future Work
+## Current Drivers
 
-- UART Driver
-- I2C Driver
-- CAN Driver
-- ADC Driver
-- Timer Driver
-- PWM Driver
-- DMA Driver
-- RTC Driver
-- USB Driver
+- ✅ Device Header
+- ✅ GPIO Driver
+- ✅ SPI Driver
+- ⏳ UART Driver
+- ⏳ I2C Driver
+- ⏳ CAN Driver
+- ⏳ ADC Driver
 
 ## Author
 
