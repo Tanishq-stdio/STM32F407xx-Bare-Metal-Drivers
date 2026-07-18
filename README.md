@@ -50,13 +50,13 @@ STM32F407xx-Bare-Metal-Drivers/
 
 ## Current Drivers
 
-- ✅ Device Header
-- ✅ GPIO Driver
-- ✅ SPI Driver
-- ⏳ UART Driver
-- ⏳ I2C Driver
-- ⏳ CAN Driver
-- ⏳ ADC Driver
+-  Device Header
+-  GPIO Driver
+-  SPI Driver
+-  UART Driver
+-  I2C Driver
+-  CAN Driver
+-  ADC Driver
 
 ## Author
 
